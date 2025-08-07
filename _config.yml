@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./files/20250807130552.jpg"
+  avatar           : "files/20250807130552.jpg"
   name             : "Shi Junjie / Sze Chunkit"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
